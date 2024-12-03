@@ -12,41 +12,41 @@ Contact Information
 About the Projects
 The projects in this repository focus on exploring Python's versatility and its application in data analysis, string manipulation, control flow, and more. Many projects revolve around analyzing and managing medical insurance data, providing hands-on experience with realistic data scenarios.
 
-Skills Demonstrated
+# Skills Demonstrated
 This repository highlights the following Python skills:
 
 Basic Syntax: Understanding Python syntax and writing clean, efficient code.
+
 Control Flow: Using conditional statements (if, else, elif) to manage decision-making processes.
+
 Functions: Defining reusable functions to improve modularity and readability.
+
 Strings: Manipulating and analyzing textual data.
+
 Lists: Performing operations on list data structures, including slicing and iteration.
+
 Loops: Implementing for and while loops for repetitive tasks.
+
 Data Analysis: Working with estimates, costs, and other metrics in the context of medical insurance.
-Project List
+
+# Project List
 Here’s a list of the projects included in this repository:
 
-Python Syntax: Med. Ins. Project
+Python Syntax: Med. Ins. Project Explores Python fundamentals while working with basic medical insurance data.
 
-Explores Python fundamentals while working with basic medical insurance data.
-Control Flow: Med. Ins. Project
+Control Flow: Med. Ins. Project Uses control flow to analyze insurance scenarios and make decisions.
 
-Uses control flow to analyze insurance scenarios and make decisions.
-Python Functions: Med. Ins. Project
+Python Functions: Med. Ins. Project Demonstrates the use of custom functions to calculate and analyze insurance costs.
 
-Demonstrates the use of custom functions to calculate and analyze insurance costs.
-Python Strings: Med. Ins. Project
+Python Strings: Med. Ins. Project Focuses on manipulating string data in medical insurance records.
 
-Focuses on manipulating string data in medical insurance records.
-Working with Python Lists: Med. Ins. Project
+Working with Python Lists: Med. Ins. Project Involves list operations, including analysis and management of medical insurance datasets.
 
-Involves list operations, including analysis and management of medical insurance datasets.
-Loops: Med. Ins. Estimates vs. Costs
+Loops: Med. Ins. Estimates vs. Costs Compares estimates and costs using loops for data iteration.
 
-Compares estimates and costs using loops for data iteration.
-Frida Kahlo Retrospective Off-Platform Project
+Frida Kahlo Retrospective Off-Platform Project A creative application of Python to explore data related to a Frida Kahlo retrospective.
 
-A creative application of Python to explore data related to a Frida Kahlo retrospective.
-Setup and Usage
+# Setup and Usage
 Requirements
 Python 3.x
 A code editor or IDE (e.g., VSCode, PyCharm, Jupyter Notebook)
@@ -67,4 +67,4 @@ Contact Information
 Have questions or want to collaborate? Reach out to me here:
 
 Name: Oddie L. Adkins III
-Email: [Your Email Address]
+Email: oddieadkins@gmail.com
